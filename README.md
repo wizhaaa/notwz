@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 🔭 Check out my most ambitious project: <a href="https://chinadelightmd.com"> here! </a> 
+👔 Connect with me on <a href="https://www.linkedin.com/in/will-zhang-9721b91ab/"> LinkedIn! </a>
+
