@@ -16,11 +16,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="left"> 
+🔭 𝐛𝐢𝐠𝐠𝐞𝐬𝐭 𝐩𝐫𝐨𝐣𝐞𝐜𝐭: <a href="https://chinadelightmd.com"> 𝙝𝙚𝙧𝙚 </a> 
+</div> 
 
-- 🔭 𝐛𝐢𝐠𝐠𝐞𝐬𝐭 𝐩𝐫𝐨𝐣𝐞𝐜𝐭: <a href="https://chinadelightmd.com"> 𝙝𝙚𝙧𝙚 </a> 
-- 👔 𝐜𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞 𝐨𝐧 <a href="https://www.linkedin.com/in/notwz/"> 𝙇𝙞𝙣𝙠𝙚𝙙𝙄𝙣 </a>
-- 📫 𝐫𝐞𝐚𝐜𝐡 𝐦𝐞 𝐨𝐧 <a href="https://www.instagram.com/notwillzhang/"> 𝙄𝙣𝙨𝙩𝙖𝙜𝙧𝙖𝙢 </a> 𝐨𝐫 <a href = "mailto: wz282@cornell.edu"> 𝙎𝙚𝙣𝙙 𝙖 𝙀𝙢𝙖𝙞𝙡</a>
+<div align="center"> 
+👔 𝐜𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞 𝐨𝐧 <a href="https://www.linkedin.com/in/notwz/"> 𝙇𝙞𝙣𝙠𝙚𝙙𝙄𝙣 </a>
+  </div> 
+  
+ <div align="right"> 
+📫 𝐫𝐞𝐚𝐜𝐡 𝐦𝐞 𝐨𝐧 <a href="https://www.instagram.com/notwillzhang/"> 𝙄𝙣𝙨𝙩𝙖𝙜𝙧𝙖𝙢 </a> 𝐨𝐫 <a href = "mailto: wz282@cornell.edu"> 𝙎𝙚𝙣𝙙 𝙖 𝙀𝙢𝙖𝙞𝙡</a>
+</div> 
 
+<div> 
+  
+  ----
+  
+  </div> 
 <div align="center">
   
 ![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=notwz&count_private=true&hide=star,contribss&show_icons=true&theme=dark)
