@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 - 👔 Connect with me on <a href="https://www.linkedin.com/in/notwz/"> LinkedIn! </a>
 - 📫 Reach me on <a href="https://www.instagram.com/notwillzhang/"> Instagram </a>, @notwillzhang on WeChat! or <a href = "mailto: wz282@cornell.edu"> Send a Email! </a>
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=notwz)](https://github.com/anuraghazra/github-readme-stats)
+
