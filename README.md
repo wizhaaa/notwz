@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - 📫 Reach me on <a href="https://www.instagram.com/notwillzhang/"> Instagram </a>, @notwillzhang on WeChat! or <a href = "mailto: wz282@cornell.edu"> Send a Email! </a>
 
 
-[![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=notwz&count_private=true&hide=star,contribss&show_icons=true&theme=dark)]
+![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=notwz&count_private=true&hide=star,contribss&show_icons=true&theme=dark)
 
