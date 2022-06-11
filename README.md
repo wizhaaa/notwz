@@ -2,9 +2,13 @@
 
 <h1 align="center">  ン 𝕨𝕚𝕝𝕝 𝕫𝕙𝕒𝕟𝕘'𝕤 𝕘𝕚𝕥𝕙𝕦𝕓 ン </h1>
 
-
+<div align="center"> 
+  
 > "𝓵𝓰𝓽𝓶" 
   
+ </div>
+ 
+ 
 <!--
 **notwz/notwz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
