@@ -55,6 +55,10 @@ Here are some ideas to get you started:
 📫 𝐫𝐞𝐚𝐜𝐡 𝐦𝐞 𝐨𝐧 <a href="https://www.instagram.com/notwillzhang/"> 𝙄𝙣𝙨𝙩𝙖𝙜𝙧𝙖𝙢 </a> 𝐨𝐫 <a href = "mailto: wz282@cornell.edu"> 𝙎𝙚𝙣𝙙 𝙖 𝙀𝙢𝙖𝙞𝙡</a>
 </div> 
   
+   <div align="center"> 
+ feel free to look around  <a href="https://wizhaa.com/"> my website </a>
+</div> 
+  
   </div> 
 
 <div> 
